@@ -1,1 +1,2 @@
-# Introduction-to-Intelligent-Systems-Assignments
+# Introduction-to-Intelligent-Systems-Assignments | Semester 2
+3 Assignments
